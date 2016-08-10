@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="title_activity_maps">Activity Tracker</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="textDistance">Distance: </string>
+    <string name="textDuration">Duration: </string>
+    <string name="textSpeed">Avg speed: </string>
+</resources>
